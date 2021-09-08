@@ -7,4 +7,3 @@ More updates coming soon, invitation from [Eazv Development](https://discord.gg/
 ## Contributors:
 - Enoughsdv
 - Sheas13_
-- ItzPionix
