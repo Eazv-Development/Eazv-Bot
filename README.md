@@ -3,7 +3,3 @@ More updates coming soon, invitation from [Eazv Development](https://discord.gg/
 
 ### TODO:
 - I plan to make the BOT in several programming languages, for now I leave the JavaScript code
-
-## Contributors:
-- Enoughsdv
-- Sheas13_
